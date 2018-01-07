@@ -12,4 +12,4 @@ the general XLS data structure must be preserved.
 
 ### Running
 1. Download `data.xlsx` from this project, adjust to your needs 
-java -jar -Dxlsx.location=C:\\path\\to\\file\\data.xlsx app.jar
+2. `java -jar -Dxlsx.location=C:\\path\\to\\file\\data.xlsx app.jar`
